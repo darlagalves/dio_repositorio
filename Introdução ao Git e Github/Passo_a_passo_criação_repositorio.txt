@@ -1,0 +1,14 @@
+CURSOS DA DIO
+Aula - Primeiro repositório criado
+
+Nessa aula foi mostrado o passo a passo necessário para se criar um repositório, sendo ele:
+1) Criar um repositório no Github - lembrar de deixa-lo público e colocar o README
+2) Abrir o Git Bash na pasta que quer gravar o repositório
+3) Comando: git clone + espaço + link do repositório do Github
+4) Comando: cd + espaço + nome do repositório
+5) Fazer as atualizações que quiser na pasta
+6) Comando: git add + espaço + .
+	isso fará com que as atualizações sejam adicionadas de forma local
+7) Comando: git commit + espaço + -m + "comentario sobre as atualizações"
+8) Comando: git push origin main 
+	esse comando manda os commits locais para nuvem (Gitub)
