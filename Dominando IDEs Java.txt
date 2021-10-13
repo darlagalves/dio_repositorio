@@ -1,0 +1,30 @@
+Etapas
+1) Configurando o ambiente de desenvolvimento
+2) Instalação da Eclipse IDE
+3) Instalação Intellij IDEA IDE
+4) Outras opções
+
+AULA 01
+Java é uma linguagem de programação orientada a objetos.
+Java é uma linguagem interpretada
+Programa.java -> Compilador -> Programa.class -> JVM -> Processador executa
+Java é compilada para um bytecode que é interpretada por uma máquina virtual (JVM)
+
+Plataforma x Java
+A linguagem java é a linguagem convencional da Plataforma Java mas não é sua única.
+Once write run anywhere, a plataforma não esta ligada á um unico hardware ou sistema operacional, pois seus programas rodam através de uma máquina virtual.
+EX.:
+Java SE, Java EE e Java ME
+
+escrever codigo(.java) -> JDK passa para bytecode(.class) -> JVM interpreta o arquivo e as blibiotecas padrões do JRE
+
+JDK - é o kiy de desenvolvimento responsavel por compilar .java em .class
+JVM - maquina virtual interpreta o .class
+JRE - ambiente de execução que fornece blibiotecas padrões do java para o JDK compilar o programa
+
+
+IDE -ambiente de desenvolvimento que combina ferramentas de desenvolimento com uma unica interface grafica do usuario (GUI)
+Eclipse open sorce para desenvolvinento java mas pode ouytras linguagens
+Intellij é um ambiente de desenvolvimento integrado escrito em java 
+ 
+
