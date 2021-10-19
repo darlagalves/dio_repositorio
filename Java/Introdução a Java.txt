@@ -1,0 +1,11 @@
+Bytecode - código originado do java, interpretado pela JVM.
+JVM - máquina virtual do java, não é necessario compilar o código para cada sistema operacional.
+Java(compilador) -> gera -> bytecode -> é interpretado por -> JVM
+
+Java SE - Standard Edition, é a distribuição minima da plataforma java
+OpenJDK é a implementação de referência opensource da plataforma que ainda é mantida pela Oracle.
+
+Java EE - Enterprise Edition, é a parte corporativa.
+
+Jakarta EE - conjunto de especificações e padrões será feita por ele, com compatibilidade ao Java EE.
+
