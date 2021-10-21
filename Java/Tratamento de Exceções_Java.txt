@@ -1,0 +1,24 @@
+--Tratamento de exceção--
+-------------------------
+>Exceções são erros que podem ser esperados ou nao esperados, elas não devem acontecer rotineiramente o código.
+
+Checked Exception
+Exceções esperadas, o sistema já preve que pode retornar um erro e já tem o tratamento dela
+
+Unchecked Excepition
+Exceções não esperadas, quando não tem a classe exception no código e ocorre um erro pode quebrar o fluxo código
+
+Bloco Try Catch
+Realiza o bloco try e sempre que encontra o erro passa para o bloco catch
+
+Finally
+pode ou não ser usado com try catch (abaixo do catch), usado para liberar ou dar continuidade em recurssos
+
+Throws
+assinatura do metodo que será retornado caso o erro ocorra
+
+Throw 
+criar uma exceção desejada juntamente com uma mensagem de erro para o metodo que fez a chamada
+
+
+
