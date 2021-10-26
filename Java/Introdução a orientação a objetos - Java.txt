@@ -1,0 +1,11 @@
+Classes utilitarias: 
+1) Uma classe que consegue se resolver nela mesma
+2) Parametros de entrada e saida simples e diretos
+ex.: validação do cpf
+
+Classe e Objeto: representação de dados em objetos e entidades para o processamentos de outros objetos
+Associação de classe: uma classe dentro de outra classe
+Herança: Uma classe base fazendo que uma classe nova tenha funções e atributos da classe pai
+Encapsulamento: Proteger alguns dados ou funcionalidades da classe, o usuario não pode acessa-la (colocar private e getter and setter)
+Polmosrfismo: funções com o mesmo nome mas tem diferentes processamentos ou na mesma classe o mesmo nome e entradas diferentes
+
