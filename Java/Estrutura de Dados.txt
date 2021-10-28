@@ -1,0 +1,39 @@
+Memória principal, também conhecida como memória central, é uma memória 
+de acesso rápido que armazena os dados e instruções que o computador está 
+trabalhando no momento. Normalmente é feita por dispositivos semicondutores 
+e são memórias do tipo volátil, ou seja, ela guarda informações temporariamente 
+precisando constantemente atualiza-la para não se perder dados, caso a energia 
+seja desligada os dados da memória principal são perdidos.
+A memória principal é um circuito integrado do tipo RAM.
+RAM- tem diversos chips com endereços de memóra que podem armazenar diversos bits.
+A memória RAM (Randon Access Memory ou Memória de Acesso 
+Randômico) permite que os dados sejam acessados de modo aleatório, não 
+apenas na sequencia que foram salvos, fazendo com que o acesso á 
+memória seja mais rápido. Ela funciona eletricamente e em nível de byte.
+>Funcionamento da memória RAM:
+Funcionamento: 
+As memórias RAM funcionam a partir dos passos a seguir
+1º Registro - Memory Address Register
+Guarda o endereço onde se encontra ou será colocado um dado/informação.
+2º Registro - Memory Buffer register
+Tem como função efetuar o seguinte controle:
+1. Se a operação desejada for de leitura, ele recebe a informação localizada 
+pelo registro de endereço e a envia ao processador;
+2. Se a operação desejada for uma saída(gravação), ele transfere o dado 
+para a posição de memória indicada pelo registro de endereço.
+3º Registro - Conector de Ligação
+Conecta o buffer (armazenador de dados utilizado para compensar a 
+diferença de velocidade entre dois dispositivos), após cada operação 
+(leitura/gravação), à posição de memória indicada pelo registro de memória, 
+permitindo assim a comunicação (transferência) de dados em ambos os 
+sentidos.
+
+===========================================================================================
+===========================================================================================
+
+As atribuições em java são por cópia de valor sempre;
+Com objetos copiamos o valor da referencia em memoria, sem duplicar o objeto.
+
+===========================================================================================
+
+Nó 
